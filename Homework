@@ -1,0 +1,21 @@
+LinkedList
+
+
+A linked list is a data structure that consists of a collection of nodes which together represent a sequence. 
+
+With my understanding in class and the video what I understand is that a linked list is made up of a chain of nodes. Each node
+contains two parts. To make a listed list you need to take steps. The way I see is if im making a To Do list.  
+Each To Do on the list is a node. The first To-Do on the list is the head/main node, and the last item is the tail node. 
+Each node contains the name of the To-Do and a pointer to the next node in the list.
+To add a task to the To DO list, we would create a new node and add it to the end of the list. 
+The new node would contain the name of the task and a pointer to the current tail node. The tail node would then be updated 
+to point to the new node.
+To remove an item from the TO-DO list, we would find the node that contains the task we want to remove and then update the pointers of the 
+nodes before and after that node.
+
+Examples like Dylan did in class with linked list:
+def update_head
+def get_tail
+def remove
+I do understand how it works and what Listed List is trying to do. I just have a hard time coding it out. I know I need more practice.
+
